@@ -1,10 +1,11 @@
-# Projeto Final**
+# Projeto Final
 **EMBARCATECH - UNIDADE 07**
 
 ## Aluno: 
 - **Carlos Henrique Silva Lopes**
 
 ## **Link do vídeo de Ensaio**
+https://drive.google.com/file/d/1ukSk7n1g6ZT5_4Ppk2_4R2GpVhJtHQpM/view?usp=sharing
 
 ## **Descrição do Projeto**
 Este repositório contém o projeto final do curso em sistemas embarcados, EmbarcaTech. Esse projeto foi feito visando simular um sistema de irrigação usando a placa BitDogLab e seus componentes.
